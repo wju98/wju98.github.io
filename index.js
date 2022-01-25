@@ -45,7 +45,7 @@ function inputs() {
 
 function drawArrows() {
     for (let i = currArrow; i < arrows.length; i++) {
-        let xPos = canvas.width / 2 - (arrows.length / 2 - i - 0.5) * (15 * arrowSize)
+        let xPos = canvas.width / 2 - (arrows.length / 2 - i - 0.5) * (15 * arrowSize);
         let yPos = canvas.height * 2 / 3;
         if (arrows[i] == 0)
             drawUpArrow(xPos, yPos);
