@@ -1,0 +1,2 @@
+# Chicken Dance Simulator
+This project is a recreation of the Chicken Dance minigame from Maplestory's Pollo and Fritto Portals. In the game, the goal is to correctly input the arrows as fast as you can. There are 10 rounds total where the number of arrows gradually increase as the rounds progress. If the wrong arrow is inputted, the user will have to redo that round. The game keeps a stopwatch on how long the user takes to complete all 10 rounds and displays it at the end as their score.
